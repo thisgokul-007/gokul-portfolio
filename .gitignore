@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist
+/.vite
+/.next
+/build
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS / IDE artifacts
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
